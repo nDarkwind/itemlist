@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.1.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.4"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "3.2.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8911.30668"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "3.1.0.0"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.5.0"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "ToolkitCreator",
+    "steamId": "2099493475",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.7"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  }
+]
