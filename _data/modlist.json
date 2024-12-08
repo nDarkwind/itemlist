@@ -12,6 +12,12 @@
     "version": "11.0.4"
   },
   {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.5.4062.1"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
@@ -124,6 +130,12 @@
     "name": "Allow Tool",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.4"
   },
   {
     "author": "Mehni",
