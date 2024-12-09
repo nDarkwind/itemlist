@@ -30,6 +30,12 @@
     "version": "1.0.8911.30668"
   },
   {
+    "author": "tikubonn",
+    "name": "Don't Block Door",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "telardo",
     "name": "DragSelect",
     "steamId": null,
@@ -72,6 +78,12 @@
     "version": "1.15.3.0"
   },
   {
+    "author": "Ruyu",
+    "name": "Skill Master",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -112,6 +124,12 @@
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "1.0.3.2"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Trade UI Revised",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SirRandoo",
