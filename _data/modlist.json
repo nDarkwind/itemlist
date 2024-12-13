@@ -12,6 +12,12 @@
     "version": "11.0.4"
   },
   {
+    "author": "Supes",
+    "name": "Auto Seller",
+    "steamId": "1440321094",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -22,6 +28,12 @@
     "name": "Camera+",
     "steamId": "867467808",
     "version": "3.2.0.0"
+  },
+  {
+    "author": "tiagocc0",
+    "name": "Colorblind Minerals",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "avilmask",
@@ -46,6 +58,12 @@
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
     "version": "1.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "Jaxe",
