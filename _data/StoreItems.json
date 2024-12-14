@@ -238,7 +238,7 @@
       "abr": "urn",
       "category": "Furniture",
       "defname": "Urn",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "smallsculpture",
@@ -262,223 +262,223 @@
       "abr": "bed",
       "category": "Furniture",
       "defname": "Bed",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "doublebed",
       "category": "Furniture",
       "defname": "DoubleBed",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "hospitalbed",
       "category": "Furniture",
       "defname": "HospitalBed",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "bedroll",
       "category": "Furniture",
       "defname": "Bedroll",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "doublebedroll",
       "category": "Furniture",
       "defname": "BedrollDouble",
-      "price": 290
+      "price": -10
     },
     {
       "abr": "animalsleepingbox",
       "category": "Furniture",
       "defname": "AnimalSleepingBox",
-      "price": 84
+      "price": -10
     },
     {
       "abr": "animalbed",
       "category": "Furniture",
       "defname": "AnimalBed",
-      "price": 136
+      "price": -10
     },
     {
       "abr": "stool",
       "category": "Furniture",
       "defname": "Stool",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "diningchair",
       "category": "Furniture",
       "defname": "DiningChair",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "armchair",
       "category": "Furniture",
       "defname": "Armchair",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "couch",
       "category": "Furniture",
       "defname": "Couch",
-      "price": 783
+      "price": -10
     },
     {
       "abr": "endtable",
       "category": "Furniture",
       "defname": "EndTable",
-      "price": 106
+      "price": -10
     },
     {
       "abr": "table(1x2)",
       "category": "Furniture",
       "defname": "Table1x2c",
-      "price": 98
+      "price": -10
     },
     {
       "abr": "table(2x2)",
       "category": "Furniture",
       "defname": "Table2x2c",
-      "price": 176
+      "price": -10
     },
     {
       "abr": "table(2x4)",
       "category": "Furniture",
       "defname": "Table2x4c",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "table(3x3)",
       "category": "Furniture",
       "defname": "Table3x3c",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "plantpot",
       "category": "Furniture",
       "defname": "PlantPot",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "standinglamp",
       "category": "Furniture",
       "defname": "StandingLamp",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "sunlamp",
       "category": "Furniture",
       "defname": "SunLamp",
-      "price": 129
+      "price": -10
     },
     {
       "abr": "walllamp",
       "category": "Furniture",
       "defname": "WallLamp",
-      "price": 49
+      "price": -10
     },
     {
       "abr": "floodlight",
       "category": "Furniture",
       "defname": "FloodLight",
-      "price": 162
+      "price": -10
     },
     {
       "abr": "shelf",
       "category": "Furniture",
       "defname": "Shelf",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "smallshelf",
       "category": "Furniture",
       "defname": "ShelfSmall",
-      "price": 35
+      "price": -10
     },
     {
       "abr": "bookcase",
       "category": "Furniture",
       "defname": "Bookcase",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "smallbookcase",
       "category": "Furniture",
       "defname": "BookcaseSmall",
-      "price": 35
+      "price": -10
     },
     {
       "abr": "dresser",
       "category": "Furniture",
       "defname": "Dresser",
-      "price": 179
+      "price": -10
     },
     {
       "abr": "horseshoespin",
       "category": "Recreation",
       "defname": "HorseshoesPin",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "hoopstonering",
       "category": "Recreation",
       "defname": "HoopstoneRing",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "game-of-urboard",
       "category": "Furniture",
       "defname": "GameOfUrBoard",
-      "price": 153
+      "price": -10
     },
     {
       "abr": "chesstable",
       "category": "Furniture",
       "defname": "ChessTable",
-      "price": 281
+      "price": -10
     },
     {
       "abr": "pokertable",
       "category": "Furniture",
       "defname": "PokerTable",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "billiardstable",
       "category": "Furniture",
       "defname": "BilliardsTable",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "tubetelevision",
       "category": "Recreation",
       "defname": "TubeTelevision",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "flatscreentelevision",
       "category": "Recreation",
       "defname": "FlatscreenTelevision",
-      "price": 1533
+      "price": -10
     },
     {
       "abr": "megascreentelevision",
       "category": "Recreation",
       "defname": "MegascreenTelevision",
-      "price": 2475
+      "price": -10
     },
     {
       "abr": "telescope",
       "category": "Recreation",
       "defname": "Telescope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "eggbox",
@@ -508,19 +508,19 @@
       "abr": "vitalsmonitor",
       "category": "Misc",
       "defname": "VitalsMonitor",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "toolcabinet",
       "category": "Misc",
       "defname": "ToolCabinet",
-      "price": 642
+      "price": -10
     },
     {
       "abr": "penmarker",
       "category": "Misc",
       "defname": "PenMarker",
-      "price": 104
+      "price": -10
     },
     {
       "abr": "glowpod",
@@ -532,163 +532,163 @@
       "abr": "battery",
       "category": "Power",
       "defname": "Battery",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "artbench",
       "category": "Production",
       "defname": "TableSculpting",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "butchertable",
       "category": "Production",
       "defname": "TableButcher",
-      "price": 302
+      "price": -10
     },
     {
       "abr": "handtailorbench",
       "category": "Production",
       "defname": "HandTailoringBench",
-      "price": 262
+      "price": -10
     },
     {
       "abr": "electrictailorbench",
       "category": "Production",
       "defname": "ElectricTailoringBench",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "fueledsmithy",
       "category": "Production",
       "defname": "FueledSmithy",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "electricsmithy",
       "category": "Production",
       "defname": "ElectricSmithy",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "machiningtable",
       "category": "Production",
       "defname": "TableMachining",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "electricstove",
       "category": "Production",
       "defname": "ElectricStove",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "fueledstove",
       "category": "Production",
       "defname": "FueledStove",
-      "price": 265
+      "price": -10
     },
     {
       "abr": "stonecutter'stable",
       "category": "Production",
       "defname": "TableStonecutter",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "brewery",
       "category": "Production",
       "defname": "Brewery",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "druglab",
       "category": "Production",
       "defname": "DrugLab",
-      "price": 742
+      "price": -10
     },
     {
       "abr": "electricsmelter",
       "category": "Production",
       "defname": "ElectricSmelter",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "simpleresearchbench",
       "category": "Production",
       "defname": "SimpleResearchBench",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "fermentingbarrel",
       "category": "Production",
       "defname": "FermentingBarrel",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "deepdrill",
       "category": "Production",
       "defname": "DeepDrill",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "spiketrap",
       "category": "Security",
       "defname": "TrapSpike",
-      "price": 169
+      "price": -10
     },
     {
       "abr": "iedtrap",
       "category": "Security",
       "defname": "TrapIED_HighExplosive",
-      "price": 192
+      "price": -10
     },
     {
       "abr": "iedincendiarytrap",
       "category": "Security",
       "defname": "TrapIED_Incendiary",
-      "price": 192
+      "price": -10
     },
     {
       "abr": "iedemptrap",
       "category": "Security",
       "defname": "TrapIED_EMP",
-      "price": 192
+      "price": -10
     },
     {
       "abr": "iedsmoketrap",
       "category": "Security",
       "defname": "TrapIED_Smoke",
-      "price": 192
+      "price": -10
     },
     {
       "abr": "iedfirefoamtrap",
       "category": "Security",
       "defname": "TrapIED_Firefoam",
-      "price": 192
+      "price": -10
     },
     {
       "abr": "iedantigrainwarheadtrap",
       "category": "Security",
       "defname": "TrapIED_AntigrainWarhead",
-      "price": 2008
+      "price": -10
     },
     {
       "abr": "mini-turret",
       "category": "Security",
       "defname": "Turret_MiniTurret",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "mortar",
       "category": "Security",
       "defname": "Turret_Mortar",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "foamturret",
       "category": "Security",
       "defname": "Turret_FoamTurret",
-      "price": 1025
+      "price": -10
     },
     {
       "abr": "psychicemanator",
@@ -712,7 +712,7 @@
       "abr": "heater",
       "category": "Temperature",
       "defname": "Heater",
-      "price": 218
+      "price": -10
     },
     {
       "abr": "psychicanimalpulser",
@@ -1294,7 +1294,7 @@
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "cowboyhat",
@@ -1372,25 +1372,25 @@
       "abr": "smokepoppack",
       "category": "Utility",
       "defname": "Apparel_SmokepopBelt",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "firefoampoppack",
       "category": "Utility",
       "defname": "Apparel_FirefoampopPack",
-      "price": 253
+      "price": -10
     },
     {
       "abr": "psychicshocklance",
       "category": "Utility",
       "defname": "Apparel_PsychicShockLance",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "psychicinsanitylance",
       "category": "Utility",
       "defname": "Apparel_PsychicInsanityLance",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "tribalwear",
@@ -1714,19 +1714,19 @@
       "abr": "orbitalbombardmenttargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterBombardment",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "orbitalpowerbeamtargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterPowerBeam",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "tornadogenerator",
       "category": "Utility",
       "defname": "TornadoGenerator",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "dye",
@@ -2050,7 +2050,7 @@
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": 167
+      "price": 267
     },
     {
       "abr": "raccoon",
@@ -2272,31 +2272,31 @@
       "abr": "drape",
       "category": "Furniture",
       "defname": "Drape",
-      "price": 608
+      "price": -10
     },
     {
       "abr": "brazier",
       "category": "Furniture",
       "defname": "Brazier",
-      "price": 173
+      "price": -10
     },
     {
       "abr": "darklightbrazier",
       "category": "Furniture",
       "defname": "DarklightBrazier",
-      "price": 173
+      "price": -10
     },
     {
       "abr": "meditationthrone",
       "category": "Furniture",
       "defname": "Throne",
-      "price": 475
+      "price": -10
     },
     {
       "abr": "grandmeditationthrone",
       "category": "Furniture",
       "defname": "GrandThrone",
-      "price": 2492
+      "price": -10
     },
     {
       "abr": "unstablepowercell",
@@ -2338,19 +2338,19 @@
       "abr": "harp",
       "category": "Recreation",
       "defname": "Harp",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "harpsichord",
       "category": "Recreation",
       "defname": "Harpsichord",
-      "price": 692
+      "price": -10
     },
     {
       "abr": "piano",
       "category": "Recreation",
       "defname": "Piano",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "shieldcore",
@@ -2362,13 +2362,13 @@
       "abr": "jumppack",
       "category": "Utility",
       "defname": "Apparel_PackJump",
-      "price": 1075
+      "price": -10
     },
     {
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": 717
+      "price": -10
     },
     {
       "abr": "eltexhelmet",
@@ -2584,7 +2584,7 @@
       "abr": "orbitalmechclustertargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterMechCluster",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "eltexstaff",
@@ -2668,7 +2668,7 @@
       "abr": "stylingstation",
       "category": "Furniture",
       "defname": "StylingStation",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "gibbetcage",
@@ -2692,43 +2692,43 @@
       "abr": "drum",
       "category": "Recreation",
       "defname": "Drum",
-      "price": 205
+      "price": -10
     },
     {
       "abr": "pew",
       "category": "Furniture",
       "defname": "Pew",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "kneelsheet",
       "category": "Furniture",
       "defname": "KneelSheet",
-      "price": 281
+      "price": -10
     },
     {
       "abr": "kneelpillow",
       "category": "Furniture",
       "defname": "KneelPillow",
-      "price": 98
+      "price": -10
     },
     {
       "abr": "bonsaipot",
       "category": "Furniture",
       "defname": "PlantPot_Bonsai",
-      "price": 82
+      "price": -10
     },
     {
       "abr": "slabbed",
       "category": "Furniture",
       "defname": "SlabBed",
-      "price": 102
+      "price": -10
     },
     {
       "abr": "slabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBed",
-      "price": 288
+      "price": -10
     },
     {
       "abr": "skullspike",
@@ -2818,61 +2818,61 @@
       "abr": "morbidslab(medium)",
       "category": "Furniture",
       "defname": "MorbidSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "morbidslab(broad)",
       "category": "Furniture",
       "defname": "MorbidSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "totemicslab(medium)",
       "category": "Furniture",
       "defname": "TotemicSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "totemicslab(broad)",
       "category": "Furniture",
       "defname": "TotemicSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "spikecorefloor-star(medium)",
       "category": "Furniture",
       "defname": "SpikecoreFloorStar_Medium",
-      "price": 323
+      "price": -10
     },
     {
       "abr": "spikecorefloor-star(broad)",
       "category": "Furniture",
       "defname": "SpikecoreFloorStar_Broad",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "rusticrug(medium)",
       "category": "Furniture",
       "defname": "RusticRug_Medium",
-      "price": 256
+      "price": -10
     },
     {
       "abr": "rusticrug(broad)",
       "category": "Furniture",
       "defname": "RusticRug_Broad",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "animalistslab(medium)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "animalistslab(broad)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "chalice",
@@ -3022,37 +3022,37 @@
       "abr": "toybox",
       "category": "Furniture",
       "defname": "ToyBox",
-      "price": 274
+      "price": -10
     },
     {
       "abr": "schooldesk",
       "category": "Furniture",
       "defname": "SchoolDesk",
-      "price": 104
+      "price": -10
     },
     {
       "abr": "babydecoration",
       "category": "Furniture",
       "defname": "BabyDecoration",
-      "price": 205
+      "price": -10
     },
     {
       "abr": "crib",
       "category": "Furniture",
       "defname": "Crib",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "blackboard",
       "category": "Furniture",
       "defname": "Blackboard",
-      "price": 56
+      "price": -10
     },
     {
       "abr": "genebank",
       "category": "Production",
       "defname": "GeneBank",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "pollutionpump",
@@ -3076,13 +3076,13 @@
       "abr": "iedtoxtrap",
       "category": "Security",
       "defname": "TrapIED_ToxGas",
-      "price": 192
+      "price": -10
     },
     {
       "abr": "subcoreencoder",
       "category": "Production",
       "defname": "SubcoreEncoder",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "babyfood",
@@ -3268,19 +3268,19 @@
       "abr": "controlpack",
       "category": "Utility",
       "defname": "Apparel_PackControl",
-      "price": 658
+      "price": -10
     },
     {
       "abr": "bandwidthpack",
       "category": "Utility",
       "defname": "Apparel_PackBandwidth",
-      "price": 2275
+      "price": -10
     },
     {
       "abr": "toxpack",
       "category": "Utility",
       "defname": "Apparel_PackTox",
-      "price": 241
+      "price": -10
     },
     {
       "abr": "mechlordsuit",
@@ -3424,7 +3424,7 @@
       "abr": "proximitydetector",
       "category": "Misc",
       "defname": "ProximityDetector",
-      "price": 108
+      "price": -10
     },
     {
       "abr": "frenzyinducer",
@@ -3442,31 +3442,31 @@
       "abr": "ieddeadlifetrap",
       "category": "Security",
       "defname": "TrapIED_Deadlife",
-      "price": 192
+      "price": -10
     },
     {
       "abr": "electroharvester",
       "category": "Power",
       "defname": "Electroharvester",
-      "price": 267
+      "price": -10
     },
     {
       "abr": "bioferriteshaper",
       "category": "Production",
       "defname": "BioferriteShaper",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "serumlab",
       "category": "Production",
       "defname": "SerumCentrifuge",
-      "price": 1208
+      "price": -10
     },
     {
       "abr": "bioferriteharvester",
       "category": "Power",
       "defname": "BioferriteHarvester",
-      "price": 236
+      "price": -10
     },
     {
       "abr": "shardbeacon",
@@ -3586,37 +3586,37 @@
       "abr": "disruptorflarepack",
       "category": "Utility",
       "defname": "Apparel_DisruptorFlarePack",
-      "price": 134
+      "price": -10
     },
     {
       "abr": "turretpack",
       "category": "Utility",
       "defname": "Apparel_PackTurret",
-      "price": 392
+      "price": -10
     },
     {
       "abr": "deadlifepack",
       "category": "Utility",
       "defname": "Apparel_DeadlifePack",
-      "price": 742
+      "price": -10
     },
     {
       "abr": "shardshocklance",
       "category": "Utility",
       "defname": "Apparel_ShardPsychicShockLance",
-      "price": 850
+      "price": -10
     },
     {
       "abr": "shardinsanitylance",
       "category": "Utility",
       "defname": "Apparel_ShardPsychicInsanityLance",
-      "price": 883
+      "price": -10
     },
     {
       "abr": "biomutationlance",
       "category": "Utility",
       "defname": "Apparel_BiomutationLance",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "labcoat",
@@ -3976,79 +3976,79 @@
       "abr": "techprint(cataphractarmor)",
       "category": "Techprints",
       "defname": "Techprint_CataphractArmor",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "techprint(jumppacks)",
       "category": "Techprints",
       "defname": "Techprint_JumpPack",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(brainwiring)",
       "category": "Techprints",
       "defname": "Techprint_BrainWiring",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(specializedlimbs)",
       "category": "Techprints",
       "defname": "Techprint_SpecializedLimbs",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(compactweaponry)",
       "category": "Techprints",
       "defname": "Techprint_CompactWeaponry",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(poisonsynthesis)",
       "category": "Techprints",
       "defname": "Techprint_VenomSynthesis",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(artificialmetabolism)",
       "category": "Techprints",
       "defname": "Techprint_ArtificialMetabolism",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(neuralcomputation)",
       "category": "Techprints",
       "defname": "Techprint_NeuralComputation",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(skinhardening)",
       "category": "Techprints",
       "defname": "Techprint_SkinHardening",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(healingfactors)",
       "category": "Techprints",
       "defname": "Techprint_HealingFactors",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(fleshshaping)",
       "category": "Techprints",
       "defname": "Techprint_FleshShaping",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(molecularanalysis)",
       "category": "Techprints",
       "defname": "Techprint_MolecularAnalysis",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "psytrainer(painblock)",
@@ -4228,74 +4228,176 @@
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": 1250
+      "price": -10
+    },
+    {
+      "abr": "bigshelf",
+      "category": "Furniture",
+      "defname": "LWM_BigShelf",
+      "price": -10
+    },
+    {
+      "abr": "clothingrack",
+      "category": "Furniture",
+      "defname": "LWM_Clothing_Rack",
+      "price": -10
+    },
+    {
+      "abr": "foodbasket",
+      "category": "Furniture",
+      "defname": "LWM_Food_Basket",
+      "price": -10
+    },
+    {
+      "abr": "hampers",
+      "category": "Furniture",
+      "defname": "LWM_FabricHamper",
+      "price": -10
+    },
+    {
+      "abr": "hayloft",
+      "category": "Furniture",
+      "defname": "LWM_Hayloft",
+      "price": -10
+    },
+    {
+      "abr": "mealtrayrack",
+      "category": "Furniture",
+      "defname": "LWM_MealRack",
+      "price": -10
+    },
+    {
+      "abr": "meathook",
+      "category": "Furniture",
+      "defname": "LWM_Meat_Hook",
+      "price": -10
+    },
+    {
+      "abr": "medicinecabinet",
+      "category": "Furniture",
+      "defname": "LWM_Medicine_Cabinet",
+      "price": -10
+    },
+    {
+      "abr": "pallet",
+      "category": "Furniture",
+      "defname": "LWM_Pallet",
+      "price": -10
+    },
+    {
+      "abr": "palletwithwrapping",
+      "category": "Furniture",
+      "defname": "LWM_Pallet_Covered",
+      "price": -10
+    },
+    {
+      "abr": "safe",
+      "category": "Furniture",
+      "defname": "LWM_Safe",
+      "price": -10
+    },
+    {
+      "abr": "skip",
+      "category": "Furniture",
+      "defname": "LWM_DeepStorage_Skip",
+      "price": -10
+    },
+    {
+      "abr": "verybigshelves",
+      "category": "Furniture",
+      "defname": "LWM_VeryBigShelf",
+      "price": -10
+    },
+    {
+      "abr": "weaponscabinet",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsCabinet",
+      "price": -10
+    },
+    {
+      "abr": "weaponslocker",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsLocker",
+      "price": -10
+    },
+    {
+      "abr": "tradereportslog",
+      "category": "Misc",
+      "defname": "ASReportsLog",
+      "price": 321
+    },
+    {
+      "abr": "tradereportsprinter",
+      "category": "Misc",
+      "defname": "ASReportsPrinter",
+      "price": 317
     }
   ],
-  "total": 716
+  "total": 733
 }
