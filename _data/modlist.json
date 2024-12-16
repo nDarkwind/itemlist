@@ -133,21 +133,15 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitPolls",
-    "steamId": "2435838514",
-    "version": "1.1.1.7"
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "2.0.0+288828fa92335d0d96e9251a76cc6cf6476421a0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.2"
   },
   {
     "author": "Hob Took",
