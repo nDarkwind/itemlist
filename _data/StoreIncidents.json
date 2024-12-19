@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 1200,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 650,
+		"price": 1350,
 		"karmatype": "Good"
 	},
 	{
@@ -167,7 +167,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
@@ -191,11 +191,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "skillincrease",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -207,12 +202,12 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 2250,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 3000,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,12 +222,12 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 2000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 2000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -252,7 +247,7 @@
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 2000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -267,12 +262,12 @@
 	},
 	{
 		"abr": "disease",
-		"price": 3500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
@@ -302,27 +297,27 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 15000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 15000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -347,7 +342,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -401,5 +396,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 80
+	"total": 79
 }
