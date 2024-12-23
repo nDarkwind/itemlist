@@ -1042,37 +1042,37 @@
       "abr": "high-explosiveshell",
       "category": "Mortar shells",
       "defname": "Shell_HighExplosive",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "incendiaryshell",
       "category": "Mortar shells",
       "defname": "Shell_Incendiary",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "empshell",
       "category": "Mortar shells",
       "defname": "Shell_EMP",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "smokeshell",
       "category": "Mortar shells",
       "defname": "Shell_Smoke",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "firefoamshell",
       "category": "Mortar shells",
       "defname": "Shell_Firefoam",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "antigrainwarhead",
       "category": "Mortar shells",
       "defname": "Shell_AntigrainWarhead",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "silver",
@@ -3148,7 +3148,7 @@
       "abr": "toxshell",
       "category": "Mortar shells",
       "defname": "Shell_Toxic",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "genepack",
@@ -3496,7 +3496,7 @@
       "abr": "deadlifeshell",
       "category": "Mortar shells",
       "defname": "Shell_Deadlife",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "voidsightserum",
