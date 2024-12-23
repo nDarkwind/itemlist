@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 275000,
+		"price": 250000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 275000,
+		"price": 250000,
 		"karmatype": "Doom"
 	},
 	{
@@ -131,23 +131,18 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 1350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 1200,
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 250,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -166,18 +161,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 750,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 600,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "shipchunkdrop",
-		"price": 300,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -207,7 +197,7 @@
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 3500,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -217,7 +207,7 @@
 	},
 	{
 		"abr": "raid",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -242,37 +232,42 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 8000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 2500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "predators",
-		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "randomdisease",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
 		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "randomdisease",
+		"price": 4250,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
+		"price": 5500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "reviveanypawn",
-		"price": 3500,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
 		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "levelskill",
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -297,22 +292,22 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 15000,
+		"price": 9000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2500,
+		"price": 4250,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 15000,
+		"price": 9000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 3500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -342,17 +337,17 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2500,
+		"price": 4500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 4000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -377,12 +372,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 3000,
+		"price": 2750,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 3000,
+		"price": 2750,
 		"karmatype": "Neutral"
 	},
 	{
@@ -396,5 +391,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 78
 }
