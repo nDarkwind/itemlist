@@ -171,16 +171,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "travelergroup",
-		"price": 80,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -202,7 +192,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 750,
+		"price": 1250,
 		"karmatype": "Good"
 	},
 	{
@@ -391,5 +381,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 78
+	"total": 76
 }
