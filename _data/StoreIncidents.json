@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 850,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -77,7 +77,7 @@
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "resourcepodcrash",
-		"price": 300,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -133,11 +133,6 @@
 	{
 		"abr": "madanimal",
 		"price": 200,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicdrone",
-		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -181,16 +176,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpoison",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 4000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "militaryaid",
 		"price": 1250,
 		"karmatype": "Good"
@@ -203,37 +188,37 @@
 	{
 		"abr": "dropraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 7500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 6000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 5000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
 		"price": 7500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
 		"price": 3000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "predators",
 		"price": 4500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "randomdisease",
@@ -241,13 +226,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "disease",
-		"price": 5500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "reviveanypawn",
-		"price": 3000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -312,7 +292,7 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 3500,
+		"price": 4500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -332,16 +312,26 @@
 	},
 	{
 		"abr": "passion",
-		"price": 4000,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 3000,
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -381,5 +371,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 76
+	"total": 74
 }
