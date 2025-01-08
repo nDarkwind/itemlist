@@ -28,7 +28,7 @@
       "abr": "wort",
       "category": "Manufactured",
       "defname": "Wort",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "ambrosia",
@@ -46,7 +46,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "penoxycyline",
@@ -88,25 +88,25 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": 4333
+      "price": -10
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "bioniceye",
@@ -148,7 +148,7 @@
       "abr": "deathacidifier",
       "category": "Bionic",
       "defname": "DeathAcidifier",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "bionicear",
@@ -736,13 +736,13 @@
       "abr": "healermechserum",
       "category": "Drugs",
       "defname": "MechSerumHealer",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "resurrectormechserum",
       "category": "Drugs",
       "defname": "MechSerumResurrector",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "techprofsubpersonacore",
@@ -754,13 +754,13 @@
       "abr": "thrumbohorn",
       "category": "Misc",
       "defname": "ThrumboHorn",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "elephanttusk",
       "category": "Misc",
       "defname": "ElephantTusk",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "packagedsurvivalmeal",
@@ -964,13 +964,13 @@
       "abr": "neutroamine",
       "category": "Manufactured",
       "defname": "Neutroamine",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "chemfuel",
       "category": "Manufactured",
       "defname": "Chemfuel",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "reinforcedbarrel",
@@ -1360,7 +1360,7 @@
       "abr": "psychicfoilhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsychicFoilHelmet",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "hood",
@@ -1648,13 +1648,13 @@
       "abr": "triplerocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_TripleRocket",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "doomsdayrocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_DoomsdayRocket",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "fraggrenades",
@@ -1732,7 +1732,7 @@
       "abr": "dye",
       "category": "Plant matter",
       "defname": "Dye",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "grizzlybear",
@@ -1936,19 +1936,19 @@
       "abr": "megascarab",
       "category": "Animals",
       "defname": "Megascarab",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "spelopede",
       "category": "Animals",
       "defname": "Spelopede",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "megaspider",
       "category": "Animals",
       "defname": "Megaspider",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "thrumbo",
@@ -1972,7 +1972,7 @@
       "abr": "alphabeaver",
       "category": "Animals",
       "defname": "Alphabeaver",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "pig",
@@ -2104,19 +2104,19 @@
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "psychicharmonizer",
       "category": "Archotech",
       "defname": "PsychicHarmonizer",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "psychicreader",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "neurocalculator",
@@ -2374,31 +2374,31 @@
       "abr": "eltexhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsyfocusHelmet",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "eltexskullcap",
       "category": "Headgear",
       "defname": "Apparel_EltexSkullcap",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "eltexshirt",
       "category": "Misc",
       "defname": "Apparel_PsyfocusShirt",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "eltexvest",
       "category": "Misc",
       "defname": "Apparel_PsyfocusVest",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "eltexrobe",
       "category": "Misc",
       "defname": "Apparel_PsyfocusRobe",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "formalshirt",
@@ -2452,7 +2452,7 @@
       "abr": "stelliccrown",
       "category": "Headgear",
       "defname": "Apparel_CrownStellic",
-      "price": 283
+      "price": -10
     },
     {
       "abr": "beret",
@@ -2536,19 +2536,19 @@
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "personazeushammer",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "personaplasmasword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "axe",
@@ -2566,19 +2566,19 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "orbitalmechclustertargeter",
@@ -2590,7 +2590,7 @@
       "abr": "eltexstaff",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "terrorsculpture",
@@ -2620,7 +2620,7 @@
       "abr": "christmastree",
       "category": "Misc",
       "defname": "ChristmasTree",
-      "price": 263
+      "price": -10
     },
     {
       "abr": "cannibalplatter",
@@ -2650,7 +2650,7 @@
       "abr": "burnbong",
       "category": "Misc",
       "defname": "Burnbong",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "incenseshrine",
@@ -2944,43 +2944,43 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "controlsublink(standard)",
       "category": "Mechtech",
       "defname": "ControlSublink",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "controlsublink(high)",
       "category": "Mechtech",
       "defname": "ControlSublinkHigh",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "remoterepairer",
       "category": "Mechtech",
       "defname": "RemoteRepairer",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "mechgestationprocessor",
       "category": "Mechtech",
       "defname": "MechFormfeeder",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "remoteshielder",
       "category": "Mechtech",
       "defname": "RemoteShielder",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "repairprobe",
       "category": "Mechtech",
       "defname": "RepairProbe",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "deathrestcasket",
@@ -3112,37 +3112,37 @@
       "abr": "standardsubcore",
       "category": "Manufactured",
       "defname": "SubcoreRegular",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "highsubcore",
       "category": "Manufactured",
       "defname": "SubcoreHigh",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "signalchip",
       "category": "Manufactured",
       "defname": "SignalChip",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "powerfocuschip",
       "category": "Manufactured",
       "defname": "PowerfocusChip",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "nanostructuringchip",
       "category": "Manufactured",
       "defname": "NanostructuringChip",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "deathrestcapacityserum",
       "category": "Drugs",
       "defname": "DeathrestCapacitySerum",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "toxshell",
@@ -3316,7 +3316,7 @@
       "abr": "flamebow",
       "category": "Ranged weapons",
       "defname": "Flamebow",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "poluxseed",
@@ -3544,7 +3544,7 @@
       "abr": "shard",
       "category": "Manufactured",
       "defname": "Shard",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "revenantspine",
@@ -4402,7 +4402,7 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": 3333
+      "price": -10
     }
   ],
   "total": 734
